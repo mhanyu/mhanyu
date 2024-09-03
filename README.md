@@ -30,3 +30,10 @@
 <img src="https://api.iconify.design/skill-icons/mysql-light.svg?height=24" alt="MySQL" />
 <img src="https://api.iconify.design/devicon/jekyll.svg?height=24" alt="Jekyll" /></p>
 
+<hr />
+<h3 id="files">Files</h3>
+
+<ul>
+  <li><a href="https://mhanyu.github.io/assets/files/Maya%20Hanyu%20-%20CV.pdf"><img src="https://api.iconify.design/ri/file-fill.svg?height=16" alt="" /> Maya Hanyu - CV.pdf</a></li>
+</ul>
+
