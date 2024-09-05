@@ -30,7 +30,6 @@
 <img src="https://api.iconify.design/skill-icons/mysql-light.svg?height=24" alt="MySQL" />
 <img src="https://api.iconify.design/devicon/jekyll.svg?height=24" alt="Jekyll" /></p>
 
-<hr />
 <h3 id="files">Files</h3>
 
 <ul>
