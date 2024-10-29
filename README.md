@@ -4,15 +4,6 @@
 <p><a href="https://www.linkedin.com/in/mhanyu/"><img src="https://api.iconify.design/ri/linkedin-fill.svg?height=24&amp;color=%230b66c2" alt="linkedin" /></a>
 <a href="https://github.com/mhanyu"><img src="https://api.iconify.design/ri/github-fill.svg?height=24&amp;color=%2322262c" alt="github" /></a></p>
 
-<ul>
-  <li>
-    <p>🔭 I’m currently looking for <strong>a new job</strong></p>
-  </li>
-  <li>
-    <p>📫 How to reach me: <a href="https://www.linkedin.com/in/mhanyu/"><strong>LinkedIn</strong></a></p>
-  </li>
-</ul>
-
 <h3 id="my-tech-stack">My Tech Stack</h3>
 
 <p><img src="https://api.iconify.design/skill-icons/javascript.svg?height=24" alt="JS" />
@@ -29,10 +20,4 @@
 <img src="https://api.iconify.design/skill-icons/kubernetes.svg?height=24" alt="kubernetes" />
 <img src="https://api.iconify.design/skill-icons/mysql-light.svg?height=24" alt="MySQL" />
 <img src="https://api.iconify.design/devicon/jekyll.svg?height=24" alt="Jekyll" /></p>
-
-<h3 id="files">Files</h3>
-
-<ul>
-  <li><a href="https://mhanyu.github.io/assets/files/Maya%20Hanyu%20-%20CV.pdf"><img src="https://api.iconify.design/ri/file-fill.svg?height=16" alt="" /> Maya Hanyu - CV.pdf</a></li>
-</ul>
 
